@@ -2,6 +2,8 @@
 
 This repository contains an Image Captioning application written in Streamlit. The application uses a pretrained VGG network connected to LSTM layers to generate descriptive captions for images. The application is deployed on an AWS EC2 instance. Check this out (if the instance is running) : http://3.141.223.2:8501/
 
+![Alt Text](Screenshot.png)
+
 ## Features
 
 - Upload an image: The application allows users to upload their own images for caption generation.
